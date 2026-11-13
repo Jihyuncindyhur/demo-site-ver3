@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download full CV](https://Jihyuncindyhur.github.io/demo-site-ver3/files/cv_Jihyun_202611.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
