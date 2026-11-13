@@ -7,4 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Jihyun Hur's website. [This is a test link.](https://Jihyuncindyhur.github.io).
+### Welcome!
+
+This is Jihyun Hur's website. [This is a test link](https://Jihyuncindyhur.github.io).
+
+I'm a **fourth-year** *clinical psychology* ph.d. student at Yale.
+
